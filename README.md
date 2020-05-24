@@ -1,6 +1,6 @@
 # Python Web Demo
 
-This is a python web demo project with Flask
+This is a python web demo project with Flask. It uses a csv file to save data in the Contact form (educational purpose)
 
 # Installation
 
